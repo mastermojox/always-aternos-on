@@ -1,0 +1,19 @@
+
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "A simple Minecraft bot for logging into a server.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.6.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": ["minecraft", "bot", "mineflayer"],
+  "author": "Your Name",
+  "license": "MIT"
+}

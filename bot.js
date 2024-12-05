@@ -2,7 +2,7 @@
 const mineflayer = require('mineflayer');
 
 const SERVER_HOST = 'im_cube.aternos.me';
-const SERVER_PORT = 25565; // Default Minecraft port
+const SERVER_PORT = 15593; // Default Minecraft port
 const USERNAME = 'im_here';
 const PASSWORD = 'daliri1388';
 
